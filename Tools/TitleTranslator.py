@@ -7,18 +7,25 @@
 # SET THE TITLE AND DESCRIPTION TEXT, AND VARIABLES IN THIS SECTION
 # Note: Make sure to keep the triple quotes around the text, don't remove the "r" before them
 #===============================================================================================================
-title = r"""Title of the video here"""
+title = r""" CS50's Introduction to Programming with Python (CS50P) 2022"""
 
 description = r"""
-You can put the description here
-Just paste it as is, in the lines between the triple quotes
+This is CS50P, CS50's Introduction to Programming with Python. 
+An introduction to programming using a language called Python. 
+Learn how to read and write code as well as how to test and "debug" it. 
+Designed for students with or without prior programming experience who'd like to learn Python specifically. 
+Learn about functions, arguments, and return values (oh my!); variables and types; 
+conditionals and Boolean expressions; and loops. Learn how to handle exceptions, 
+find and fix bugs, and write unit tests; use third-party libraries; 
+validate and extract data with regular expressions; 
+model real-world entities with classes, objects, methods, and properties; and read and write files. 
+Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. 
+No software required except for a web browser, or you can write code on your own PC or Mac.
 
-It will be translated to all the languages you have enabled in the batch config file
-It will put all the results in a text file in a way that you can easily copy and paste each one
-The file wil be called 'Translated Titles and Descriptions.txt' and go in the output folder
-
-It will avoid translating timestamps, links, and any characters you specify in the noTranslateList variable
-It will also preserve newlines, so you can use them to separate paragraphs
+Whereas CS50x itself focuses on computer science more generally as well as programming with C, Python, SQL,
+and JavaScript, this course, aka CS50P, is entirely focused on programming with Python. You can take CS50P 
+before CS50x, during CS50x, or after CS50x. But for an introduction to computer science itself, 
+you should still take CS50x!
 """
 
 # Characters to avoid translating. Update this with any characters that you don't want translated
